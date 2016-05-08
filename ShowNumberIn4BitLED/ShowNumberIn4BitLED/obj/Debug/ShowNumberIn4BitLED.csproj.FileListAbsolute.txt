@@ -1,0 +1,4 @@
+G:\MyBlog\ShowNumberIn4BitLED\ShowNumberIn4BitLED\bin\Debug\ShowNumberIn4BitLED.exe
+G:\MyBlog\ShowNumberIn4BitLED\ShowNumberIn4BitLED\bin\Debug\ShowNumberIn4BitLED.pdb
+G:\MyBlog\ShowNumberIn4BitLED\ShowNumberIn4BitLED\obj\Debug\ShowNumberIn4BitLED.exe
+G:\MyBlog\ShowNumberIn4BitLED\ShowNumberIn4BitLED\obj\Debug\ShowNumberIn4BitLED.pdb
